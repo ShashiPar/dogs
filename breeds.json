@@ -6,7 +6,7 @@
       "size": "Large",
       "lifespan": "10-12 years",
       "origin": "Scotland",
-      "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+      "imageUrl": "./img/goldenretriver.jpeg"
     },
     {
       "breedId": "B102",
@@ -15,7 +15,7 @@
       "size": "Large",
       "lifespan": "10-12 years",
       "origin": "Canada",
-      "imageUrl": "https://dog.ceo/api/img/labrador/n02099712_2220.jpg"
+      "imageUrl": "./img/lab.webp"
     },
     {
       "breedId": "B103",
@@ -24,7 +24,7 @@
       "size": "Medium",
       "lifespan": "12-15 years",
       "origin": "England",
-      "imageUrl": "https://dog.ceo/api/img/beagle/n02088364_11130.jpg"
+      "imageUrl": "./img/beagle.webp"
     },
     {
       "breedId": "B104",
@@ -33,7 +33,7 @@
       "size": "Medium",
       "lifespan": "8-10 years",
       "origin": "England",
-      "imageUrl": "https://dog.ceo/api/img/bulldog/n02096585_12347.jpg"
+      "imageUrl": "./img/bulldog.jpg"
     },
     {
       "breedId": "B105",
@@ -42,7 +42,7 @@
       "size": "Large",
       "lifespan": "9-13 years",
       "origin": "Germany",
-      "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_18573.jpg"
+      "imageUrl": "./img/germanshepherd.webp"
     },
     {
       "breedId": "B106",
@@ -51,7 +51,7 @@
       "size": "Medium",
       "lifespan": "12-15 years",
       "origin": "France",
-      "imageUrl": "https://dog.ceo/api/img/poodle/n02113712_11847.jpg"
+      "imageUrl": "./img/poodle.jpeg"
     }
   ]
   
