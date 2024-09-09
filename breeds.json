@@ -6,7 +6,7 @@
       "size": "Large",
       "lifespan": "10-12 years",
       "origin": "Scotland",
-      "imageUrl": "./img/goldenretriver.jpeg"
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJY2bMiMlpHwmOHEbgcLV5UrNTtW-tYiMRiQ&s"
     },
     {
       "breedId": "B102",
@@ -15,7 +15,7 @@
       "size": "Large",
       "lifespan": "10-12 years",
       "origin": "Canada",
-      "imageUrl": "./img/lab.webp"
+      "imageUrl": "https://assets.orvis.com/is/image/orvisprd/Lab-26?wid=1023&src=is($object$:7-3)"
     },
     {
       "breedId": "B103",
@@ -24,7 +24,7 @@
       "size": "Medium",
       "lifespan": "12-15 years",
       "origin": "England",
-      "imageUrl": "./img/beagle.webp"
+      "imageUrl": "https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-157603001-e1701106766955.jpg?w=1024"
     },
     {
       "breedId": "B104",
@@ -33,7 +33,7 @@
       "size": "Medium",
       "lifespan": "8-10 years",
       "origin": "England",
-      "imageUrl": "./img/bulldog.jpg"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bulldog_inglese.jpg/640px-Bulldog_inglese.jpg"
     },
     {
       "breedId": "B105",
@@ -42,7 +42,7 @@
       "size": "Large",
       "lifespan": "9-13 years",
       "origin": "Germany",
-      "imageUrl": "./img/germanshepherd.webp"
+      "imageUrl": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-on-White-00.jpg"
     },
     {
       "breedId": "B106",
@@ -51,7 +51,7 @@
       "size": "Medium",
       "lifespan": "12-15 years",
       "origin": "France",
-      "imageUrl": "./img/poodle.jpeg"
+      "imageUrl": "https://cdn.britannica.com/39/233239-050-50C0C3C5/standard-poodle-dog.jpg"
     }
   ]
   
